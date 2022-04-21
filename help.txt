@@ -1,0 +1,4 @@
+1.The getBoundingClientRect() method returns the size of an element and its position relative to the viewport.
+ The getBoundingClientRect() method returns a DOMRect object with eight properties: left, top, right, bottom, x, y, width, height.
+ Note :-
+ The scrolling that has been done is taken into account. This means that the rectangle's edges (top, left, bottom, and right) change their values every time the scrolling position changes.
