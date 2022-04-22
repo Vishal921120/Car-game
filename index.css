@@ -24,6 +24,7 @@
     /* position is absolute to game area so that our cars will run only in game area */
     position: absolute;
     bottom: 120px;
+    border-radius: 18px;
     background-image: url('car3.png');
     background-size: 100% 100%;
     background-repeat: no-repeat;
